@@ -1,18 +1,18 @@
-[submodule "/home/brendan/.config/nvim/pack/github/start/vim-gotham"]
-	path = /home/brendan/.config/nvim/pack/github/start/vim-gotham
+[submodule "pack/github/start/vim-gotham"]
+	path = pack/github/start/vim-gotham
 	url = https://github.com/whatyouhide/vim-gotham.git
-[submodule "/home/brendan/.config/nvim/pack/github/start/vim-tmux"]
-	path = /home/brendan/.config/nvim/pack/github/start/vim-tmux
+[submodule "pack/github/start/vim-tmux"]
+	path = pack/github/start/vim-tmux
 	url = https://github.com/tmux-plugins/vim-tmux.git
-[submodule "/home/brendan/.config/nvim/pack/github/start/vim-flake8"]
-	path = /home/brendan/.config/nvim/pack/github/start/vim-flake8
+[submodule "pack/github/start/vim-flake8"]
+	path = pack/github/start/vim-flake8
 	url = https://github.com/nvie/vim-flake8.git
-[submodule "/home/brendan/.config/nvim/pack/github/start/vim-signify"]
-	path = /home/brendan/.config/nvim/pack/github/start/vim-signify
+[submodule "pack/github/start/vim-signify"]
+	path = pack/github/start/vim-signify
 	url = https://github.com/mhinz/vim-signify.git
-[submodule "/home/brendan/.config/nvim/pack/github/start/vim-airline"]
-	path = /home/brendan/.config/nvim/pack/github/start/vim-airline
+[submodule "pack/github/start/vim-airline"]
+	path = pack/github/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
-[submodule "/home/brendan/.config/nvim/pack/github/start/fzf"]
-	path = /home/brendan/.config/nvim/pack/github/start/fzf
+[submodule "pack/github/start/fzf"]
+	path = pack/github/start/fzf
 	url = https://github.com/junegunn/fzf.git
