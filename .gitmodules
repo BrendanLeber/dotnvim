@@ -16,3 +16,6 @@
 [submodule "pack/github/start/fzf"]
 	path = pack/github/start/fzf
 	url = https://github.com/junegunn/fzf.git
+[submodule "pack/github/start/rainbow_csv"]
+	path = pack/github/start/rainbow_csv
+	url = https://github.com/mechatroner/rainbow_csv.git
